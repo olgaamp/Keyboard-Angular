@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20ca18e7-fbde-4566-ae71-cbce681dfa73" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZIrjkGxtrC5OfXvKfDbUNfIZ2W" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TODO_SCOPE" value="Module 'NewKey'" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Учебный" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20ca18e7-fbde-4566-ae71-cbce681dfa73" name="Default Changelist" comment="" />
+      <created>1584537586194</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584537586194</updated>
+      <workItem from="1584537587639" duration="4660000" />
+      <workItem from="1584552142779" duration="9200000" />
+      <workItem from="1584897840812" duration="5853000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="530" y="127" key="FileChooserDialogImpl" timestamp="1584610784255">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="127" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1584610784255" />
+    <state x="5" y="110" width="1416" height="676" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1584901797812">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="5" y="110" width="1416" height="676" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1600.860@0.0.1600.860" timestamp="1584901797812" />
+    <state x="379" y="0" width="840" height="858" key="search.everywhere.popup" timestamp="1584539612972">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="379" y="0" width="840" height="858" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1584539612972" />
+  </component>
+</project>
