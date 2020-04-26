@@ -1,0 +1,13 @@
+<h1 class="visually-hidden">Виртуальная клавиатура</h1>
+<section class="computer">
+  <div class="display-wrapper">
+    <div class="display">{{displayContent}}</div>
+  </div>
+  <button class="button clear" type="button">Очистить</button>
+</section>
+
+<section class="keyboard">
+  <div *ngFor="let keyLine of alphabet" class="keyboard-line">
+    <button *ngFor="let key of keyLine" class="button key" type="button" (click)="onKeyClick(key)">{{key}}</button>
+  </div>
+</section>

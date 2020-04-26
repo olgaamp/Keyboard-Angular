@@ -1,6 +1,12 @@
 let keyboard = document.querySelector('.keyboard');
 let display = document.querySelector(".display");
+
 // let key = document.querySelectorAll(".key.p");
+
+function onKeyboardButtonClick(language) {
+    window.location.href = window.location.href
+        .replace("index.html", language + "-keyboard.html");
+}
 
 keyboard.onclick = function (event) {
     event.preventDefault();
@@ -13,7 +19,7 @@ keyboard.onclick = function (event) {
     display.textContent += key.sign;
 };
 
-let alphabet = ["йцукенгшщзхъ", "фывапролджэ", "ячсмитьбю."];
+let alphabet = window.alphabetOlga;
 let keysCollection = [];
 let index = 0;
 for (let i = 0; i < alphabet.length; i++) {
@@ -60,3 +66,13 @@ $(".keyboard").append(resultHtmlObject);
 let мойНовыйДивчик = $("<div></div>");
 
 let parentsOfMyKeyboard = $('.keyboard').parents;
+
+function add(x, y) {
+    return x + y;
+}
+
+function add(x, y) {
+    this.counter++;
+    return x + y;
+}
+
